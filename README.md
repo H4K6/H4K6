@@ -4,7 +4,7 @@
 
 <div align=right>对一切前沿的技术保持充分好奇，喜欢并爱瞎折腾。</div><br>
 
-<img src="/public/picture/anonimuns.gif" width="200px">
+<img src="https://github.com/H4K6/APTMAX/blob/f0f83ab3a6e22e84a500d1b183b720c637546fc6/public/picture/anonimuns.gif" width="200px">
 
 ```
 热爱前沿技术探索，黑灰产行业打击研究。 
